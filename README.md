@@ -36,7 +36,7 @@
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaminaSA)](https://github.com/LaminaSA/github-readme-stats)
-![Visitor Count](https://profile-counter.glitch.me/LaminaSA/count.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LaminaSA.LaminaSA)
 
 
 <!--
