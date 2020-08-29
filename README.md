@@ -37,6 +37,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaminaSA)](https://github.com/LaminaSA/github-readme-stats)
 
+[![Agbo's github stats](https://github-readme-stats.vercel.app/api?username=LaminaSA&show_icons=true&theme=synthwave)](https://github.com/LaminaSA/github-readme-stats)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LaminaSA.LaminaSA)
 
 
