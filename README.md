@@ -1,4 +1,4 @@
-### Hi there, I'm Agbo, a junior Devops Consultant. Welcome to my GitHub profile :computer:
+### Hi there, I'm Agbo, a part-time developer. Welcome to my GitHub profile :computer:
 
 ### **Skills and Tools**
 
